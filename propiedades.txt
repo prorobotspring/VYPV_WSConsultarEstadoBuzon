@@ -1,0 +1,26 @@
+#Nombre del Datasource
+
+datasource=ds/VYPV_Buzon
+
+#Nombre del SP con su schema
+
+nameSP=VYPV_IVR.SP_CONSULTARESTADOBUZON
+
+#Numero de contrato
+
+contrato=ORMO-00082
+
+#Errores técnicos
+
+
+errorMesage2=ERROR al invocar el WS Consulta Estado Buzon.
+errorMesage3=El Header del mensaje SOAP contiene valores nulos
+errorMesage4=Error: Tratando de realizar conexion con la BD
+errorMesage5=ERROR al Ejecutar Stored Procedure
+
+#Mensajes Funcionales
+
+errorFuncional2=El Header del mensaje SOAP contiene valores vacios.
+errorFuncional3=El GSM suministrado es invalido o vacio
+errorFuncional4=Consulta Exitosa.
+errorFuncional5=Consulta Fallida:
